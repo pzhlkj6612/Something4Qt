@@ -14,9 +14,10 @@
 
 <br/>
 
-##### Download Qt
+##### Download and extract the source of Qt
 
-Go to [Download Offline Installers - Qt](https://www1.qt.io/offline-installers/?hsLang=en), and find **Source packages & Other releases**.
+- Go to [Download Offline Installers - Qt](https://www1.qt.io/offline-installers/?hsLang=en), and find **Source packages & Other releases**.
+- *Uncompress the files into the directory you want Qt installed; e.g. ```C:\Qt\5.11```.*
 
 <br/>
 
