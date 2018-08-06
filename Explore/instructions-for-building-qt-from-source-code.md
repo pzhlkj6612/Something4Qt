@@ -8,9 +8,27 @@
 
 #### Prepare
 
+- [Qt for Windows - Requirements | Qt 5.11](http://doc.qt.io/qt-5/windows-requirements.html)
+
 ##### Which platforms can be used by Qt
 
 [Supported Platforms | Qt 5.11](http://doc.qt.io/qt-5/supported-platforms.html)
+
+<br/>
+
+##### Install tools which are required for building Qt 5 from source
+
+- [Perl](https://www.activestate.com/activeperl/downloads) version 5.12 or later
+- [Python](https://www.python.org/downloads/windows/) version 2.7 or later
+- [Ruby](https://rubyinstaller.org/downloads/) version 1.9.3 or later
+
+<br/>
+
+##### Install C++ compiler
+
+- [MinGW-builds gcc](http://mingw-w64.org/doku.php/download/mingw-builds) 4.9 or later
+- [Visual Studio](https://visualstudio.microsoft.com/) 2012 or later
+- \*[Build Tools for Visual Studio 2017 # Downloads | IDE, Code, &amp; Team Foundation Server | Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017) could be useful.
 
 <br/>
 
@@ -20,7 +38,5 @@
 - *Uncompress the files into the directory you want Qt installed; e.g. ```C:\Qt\5.11```.*
 
 <br/>
-
-##### Install a C++ compiler
 
 ...
