@@ -22,6 +22,8 @@
 - [Python](https://www.python.org/downloads/windows/) version 2.7 or later
 - [Ruby](https://rubyinstaller.org/downloads/) version 1.9.3 or later
 
+Remember to append these software's folders to ```PATH``` environment variable(Some installer will do it by default or your choice).
+
 <br/>
 
 ##### Install C++ compiler
