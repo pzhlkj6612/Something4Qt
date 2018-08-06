@@ -6,13 +6,15 @@
 
 <br/>
 
+#### Which platforms can be used by Qt
+
+[Supported Platforms | Qt 5.11](http://doc.qt.io/qt-5/supported-platforms.html)
+
+<br/>
+
 #### Prepare
 
 - [Qt for Windows - Requirements | Qt 5.11](http://doc.qt.io/qt-5/windows-requirements.html)
-
-##### Which platforms can be used by Qt
-
-[Supported Platforms | Qt 5.11](http://doc.qt.io/qt-5/supported-platforms.html)
 
 <br/>
 
