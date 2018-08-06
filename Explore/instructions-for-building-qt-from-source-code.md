@@ -30,7 +30,16 @@ Remember to append these software's folders to ```PATH``` environment variable(S
 
 - [MinGW-builds gcc](http://mingw-w64.org/doku.php/download/mingw-builds) 4.9 or later
 - [Visual Studio](https://visualstudio.microsoft.com/) 2012 or later
-- \*[Build Tools for Visual Studio 2017 # Downloads | IDE, Code, &amp; Team Foundation Server | Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017) could be useful.
+
+<br/>
+
+Ref:
+
+- [MinGW vs MinGW-W64及其它 - Bouygues - 博客园](https://www.cnblogs.com/bouygues/p/6072991.html)
+
+Ref++:
+
+- [Build Tools for Visual Studio 2017 # Downloads | IDE, Code, &amp; Team Foundation Server | Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017)
 
 <br/>
 
