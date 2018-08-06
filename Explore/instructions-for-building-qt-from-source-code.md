@@ -43,7 +43,7 @@ Ref:
 
 Ref++:
 
-- [Build Tools for Visual Studio 2017 # Downloads | IDE, Code, &amp; Team Foundation Server | Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017)
+- [Announcing Visual C++ Build Tools 2015 &ndash; standalone C++ tools for build environments | Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/2015/11/02/announcing-visual-c-build-tools-2015-standalone-c-tools-for-build-environments/)
 
 <br/>
 
