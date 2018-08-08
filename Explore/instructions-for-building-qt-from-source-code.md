@@ -8,7 +8,8 @@
 
 #### Which platforms can be used by Qt
 
-[Supported Platforms | Qt 5.11](http://doc.qt.io/qt-5/supported-platforms.html)
+- [Supported Platforms | Qt 5.11](http://doc.qt.io/qt-5/supported-platforms.html)
+- [Building Qt Sources | Qt 5.11](http://doc.qt.io/qt-5/build-sources.html)
 
 <br/>
 
@@ -55,4 +56,6 @@ Ref++:
 
 <br/>
 
-...
+##### Configure, Compile and Install
+
+[Qt Configure Options | Qt 5.11](http://doc.qt.io/qt-5/configure-options.html)
