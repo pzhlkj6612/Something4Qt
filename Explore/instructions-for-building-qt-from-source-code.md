@@ -58,4 +58,8 @@ Ref++:
 
 ##### Configure, Compile and Install
 
+###### Configure
+
 [Qt Configure Options | Qt 5.11](http://doc.qt.io/qt-5/configure-options.html)
+
+...
