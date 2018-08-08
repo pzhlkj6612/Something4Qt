@@ -17,6 +17,7 @@
 ##### Prepare
 
 - [Qt for Windows - Requirements | Qt 5.11](http://doc.qt.io/qt-5/windows-requirements.html)
+- [Qt for Windows - Building from Source | Qt 5.11](http://doc.qt.io/qt-5/windows-building.html)
 
 <br/>
 
